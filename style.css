@@ -87,6 +87,12 @@ body {
     text-align: center;
 }
 
+.icons a{
+    text-decoration: none;
+    color: black;
+}/*hide link decoration */
+
+
 /* START MENU BAR NOW */
 .startmenu {
     bottom: -655px;
